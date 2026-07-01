@@ -10,7 +10,7 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=ShriVarshaaSakhamuri1&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ShriVarshaaSakhamuri1&icon=6&color=black)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
