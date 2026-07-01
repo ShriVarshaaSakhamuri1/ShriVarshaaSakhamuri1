@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋 I'm Shrivarshaa Sakhamuri<br><br>🎓 Recent M.S. Computer Science graduate from The University of Texas at Arlington (4.0 GPA), specializing in Artificial Intelligence, Machine Learning, Cloud Computing, and Full-Stack Software Development.<br><br>💻 Passionate about building scalable software, AI-powered applications, cloud-native solutions, and data-driven systems that solve real-world problems.<br><br>🚀 Experienced with developing end-to-end applications using Python, Java, JavaScript/TypeScript, React, Next.js, FastAPI, SQL, AWS, and modern AI frameworks.<br><br>☁️ AWS Certified Solutions Architect – Associate with hands-on experience designing cloud infrastructure, CI/CD pipelines, Infrastructure as Code, monitoring, and automation.<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, Distributed Systems, Cloud Engineering, and Backend Development.<br><br>🌱 Currently expanding my knowledge in MLOps, Agentic AI, Kubernetes, Event-Driven Architectures, and Production AI Systems.<br><br>👯 Open to collaborating on AI, Machine Learning, Cloud, Full-Stack, and Open Source projects.<br<br>
+### Hi there 👋 I'm Shrivarshaa Sakhamuri<br><br>🎓 Recent M.S. Computer Science graduate from The University of Texas at Arlington (4.0 GPA), specializing in Artificial Intelligence, Machine Learning, Cloud Computing, and Full-Stack Software Development.<br><br>💻 Passionate about building scalable software, AI-powered applications, cloud-native solutions, and data-driven systems that solve real-world problems.<br><br>🚀 Experienced with developing end-to-end applications using Python, Java, JavaScript/TypeScript, React, Next.js, FastAPI, SQL, AWS, and modern AI frameworks.<br><br>☁️ AWS Certified Solutions Architect – Associate with hands-on experience designing cloud infrastructure, CI/CD pipelines, Infrastructure as Code, monitoring, and automation.<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, Generative AI, Computer Vision, Distributed Systems, Cloud Engineering, and Backend Development.<br><br>🌱 Currently expanding my knowledge in MLOps, Agentic AI, Kubernetes, Event-Driven Architectures, and Production AI Systems.<br><br>👯 Open to collaborating on AI, Machine Learning, Cloud, Full-Stack, and Open Source projects.<br><br>
 
 
 ## 🌐 Socials:
@@ -10,7 +10,7 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=ShriVarshaaSakhamuri1&icon=6&color=black)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=ShriVarshaaSakhamuri1)
 
 
